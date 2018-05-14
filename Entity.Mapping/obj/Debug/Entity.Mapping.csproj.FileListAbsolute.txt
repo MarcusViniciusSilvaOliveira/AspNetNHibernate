@@ -1,0 +1,6 @@
+c:\users\marcus vinicius\documents\visual studio 2017\Projects\AspNetNHibernate\Entity.Mapping\bin\Debug\Customer.hbm.xml
+c:\users\marcus vinicius\documents\visual studio 2017\Projects\AspNetNHibernate\Entity.Mapping\bin\Debug\Entity.Mapping.dll
+c:\users\marcus vinicius\documents\visual studio 2017\Projects\AspNetNHibernate\Entity.Mapping\bin\Debug\Entity.Mapping.pdb
+c:\users\marcus vinicius\documents\visual studio 2017\Projects\AspNetNHibernate\Entity.Mapping\obj\Debug\Entity.Mapping.dll
+c:\users\marcus vinicius\documents\visual studio 2017\Projects\AspNetNHibernate\Entity.Mapping\obj\Debug\Entity.Mapping.pdb
+C:\Users\Marcus Vinicius\Documents\Visual Studio 2017\Projects\AspNetNHibernate\Entity.Mapping\obj\Debug\Entity.Mapping.csprojResolveAssemblyReference.cache

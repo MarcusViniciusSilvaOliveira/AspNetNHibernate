@@ -1,0 +1,4 @@
+c:\users\marcus vinicius\documents\visual studio 2017\Projects\AspNetNHibernate\Entity\bin\Debug\Entity.dll
+c:\users\marcus vinicius\documents\visual studio 2017\Projects\AspNetNHibernate\Entity\bin\Debug\Entity.pdb
+c:\users\marcus vinicius\documents\visual studio 2017\Projects\AspNetNHibernate\Entity\obj\Debug\Entity.dll
+c:\users\marcus vinicius\documents\visual studio 2017\Projects\AspNetNHibernate\Entity\obj\Debug\Entity.pdb

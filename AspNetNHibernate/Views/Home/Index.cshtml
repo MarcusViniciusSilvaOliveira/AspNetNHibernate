@@ -1,0 +1,58 @@
+﻿
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Tela de cadastro de Clientes</h2>
+<form id="SearchForm" class="panel panel-default">
+    <div class="panel-heading">
+        <label>Filtros para Pesquisa</label>
+    </div>
+    <div class="panel-body row">
+        <div class="col-md-6 col-xs-6 ">
+            <label>Nome</label>
+            <input type="text" name="Name" class="form-control"/>
+        </div>
+    </div>
+    <div class="panel-footer">
+        <button id="SearchForm_Button">Pesquisar</button>
+    </div>
+</form>
+
+<div class="panel panel-default">
+    <div class="panel-heading">
+        <label>Lista de Clientes</label>
+    </div>
+    <div class="panel-body">
+        <div id="CustomerDataTable">
+        </div>
+    </div>
+    <div class="panel-footer">
+        <button id="CustomerDataTable_New">Adicionar</button>
+        <button id="CustomerDataTable_Edit">Editar</button>
+        <button id="CustomerDataTable_Remove">Remover</button>
+    </div>
+</div>
+
+<form id="CustomerDialog" title="Adicionar Novo Cliente">
+    <div class="panel panel-default">
+        <div class="panel-heading">
+            <label>Campos</label>
+        </div>
+        <div class="panel-body">
+            <input type="text" name="Id" id="CustomerDialog_Id" style="display:none" class="form-control" />
+
+            <label>Nome</label>
+            <input type="text" name="Name" id="CustomerDialog_Name" style="width:55%" class="form-control" />
+
+            <label>CPF</label>
+            <input type="text" name="CPF" id="CustomerDialog_CPF" style="width:55%" class="form-control" />
+        </div>
+        <div class="panel-footer">
+            <button id="CustomerDialog_Save">Salvar</button>
+            <button id="CustomerDialog_Cancel">Cancelar</button>
+        </div>
+    </div>
+</form>
+<script type="text/javascript" src="~/Views/Home/Index.js"></script>
+

@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<hibernate-mapping assembly="Entity" namespace="Entity" xmlns="urn:nhibernate-mapping-2.2">
+
+  <class name="Customer" table="Customer" lazy="true" >
+    <id name="Id" column="Id">
+      <generator class="identity">
+      </generator>
+    </id>
+
+    <property name="Name" column="Name" />
+    <property name="CPF" column="CPF" />
+  </class>
+</hibernate-mapping>
